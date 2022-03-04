@@ -1,0 +1,57 @@
+body{
+	background-image: url("503012-minimalist-laptop-background.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 730px;
+	color: beige;
+}
+
+.title{
+	color: blueviolet;
+	text-align: center;
+	font-size: 45px;
+}
+table{
+	background-color: blueviolet;
+	width: 1500px;
+	height: 300px;
+}
+caption{
+	color: black;
+	font-size: 30px;
+}
+.table_div{
+	align-content: center;
+}
+.navigation_bar{
+list-style: square;	
+color: blueviolet;
+}
+.navigation_bar_div{
+	align-content: left;
+	font-size: 25px;
+}
+a{
+	text-decoration: none;
+	color: inherit;
+}
+.Language{
+	background-color: darkviolet;
+}
+.ElectricCircuits{
+	background-color: pink;
+	color: black;
+}
+.Electronics{
+	background-color: hotpink;
+}
+.Programming{
+	background-color: deeppink;
+}
+img{
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	display: block;
+}
